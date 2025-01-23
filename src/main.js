@@ -1,0 +1,1 @@
+import './styles/main.css'  // CSS import required for Vite HMR

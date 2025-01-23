@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@theme {
+    /* New color system using oklch */
+    --color-neon-pink: oklch(71.7% 0.25 360);
+    --color-neon-lime: oklch(91.5% 0.258 129);
+    --color-neon-cyan: oklch(91.3% 0.139 195.8);
+}
